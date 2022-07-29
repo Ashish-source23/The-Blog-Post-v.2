@@ -1,5 +1,6 @@
 #The-Blog-Post-Website
-This is a blog post website which allows the users to read and write blogs of other peoples
+This is a blog post website which allows the users to read and write blogs of other peoples.
+
 Technlogies used :
 HTML5, CSS3, JavaScript , Ejs , Node.js
 
